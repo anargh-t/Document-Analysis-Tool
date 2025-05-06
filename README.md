@@ -10,11 +10,14 @@ A powerful tool that uses NuExtract v1.5 to automatically extract structured inf
 - JSON output format for structured data
 - Real-time analysis
 
+![img.png](img.png)
+![img_1.png](img_1.png)
+
 ## Installation
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/anargh-t/Document-Analysis-Tool.git
 cd document-analysis-tool
 ```
 
